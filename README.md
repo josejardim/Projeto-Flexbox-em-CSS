@@ -1,3 +1,3 @@
-# project flexbox DIO
+# Projeto Flexbox em CSS DIO
 
 # josejardim
